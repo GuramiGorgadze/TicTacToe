@@ -4,7 +4,7 @@
 <div align="center">
 
 
-# TICTACTOE
+# TIC-TAC-TOE
 
 <em>Unleash Strategy, Conquer with Confidence</em>
 
@@ -36,8 +36,6 @@
 ## Overview
 
 TicTacToe is a comprehensive console-based game framework built in C# that streamlines the development and deployment of a classic Tic Tac Toe game. It manages game flow, user interactions, and score tracking, providing a solid foundation for both learning and extending game logic.
-
-**Why TicTacToe?**
 
 This project simplifies game development with a reliable architecture and flexible configuration. The core features include:
 
